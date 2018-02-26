@@ -1,0 +1,41 @@
+{
+  "name": "Weather",
+  "short_name": "Weather",
+  "icons": [{
+    "src": "images/icons/icon-128x128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    }, {
+      "src": "images/icons/icon-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }, {
+      "src": "images/icons/icon-152x152.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    }, {
+      "src": "images/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }, {
+      "src": "images/icons/icon-256x256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }],
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#3E4EB8",
+  "theme_color": "#2F3BA2",
+  "prefer_related_applications": true,
+  "related_applications":[
+    {
+      "platform": "play",
+      "url": "https://play.google.com/store/apps/details?id=com.wantoto.gomaji2",
+      "id": "com.wantoto.gomaji2"
+    },
+    {
+      "platform": "itunes",
+      "url": "https://itunes.apple.com/tw/app/gomaji-%E6%9C%80%E5%A4%A7%E5%90%83%E5%96%9D%E7%8E%A9%E6%A8%82%E5%88%B8%E5%B9%B3%E5%8F%B0/id431218690"
+    }
+  ]
+}
