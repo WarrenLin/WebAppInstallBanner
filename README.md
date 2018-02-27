@@ -12,6 +12,8 @@ You can deploy code on Firebase directed, because that hosting support HTTPS.
 * For testing usefully, enable chrome://flags/#bypass-app-banner-engagement-checks
 
 ### Demo Screen
+https://install-banner.firebaseapp.com/
+
 ![Alt text](https://github.com/WarrenLin/WebAppInstallBanner/blob/master/demo.gif)
 
 ### Reference
