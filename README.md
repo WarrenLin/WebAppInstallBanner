@@ -8,6 +8,7 @@ You can deploy code on Firebase directed, because that hosting support HTTPS.
   + short_name
   + 192x192 png icon
   + a related_applications object with information about the app
+* Be visited by the user twice, over two separate days during the course of two weeks.  
 * For testing usefully, enable chrome://flags/#bypass-app-banner-engagement-checks
 
 ### Demo Screen
